@@ -1,0 +1,38 @@
+setup environment
+
+npm init -y
+npm install -D typescript 
+npm install -D ts-node
+npm install -D nodemon
+
+
+
+create a tsconfig.json and add config
+create nodemon.json and add config
+
+setup up src index files
+
+
+npm i express body-parser cookie-parser compression cors
+
+npm i @types/express @types/body-parser @types/cookie-parser @types/compression @types/cors
+
+
+
+ir a MongoDB crear la database
+
+npm i mongoose
+npm i -D @types/mongoose
+npm i mongodb
+
+
+
+crear los controller y las rutas
+
+
+luego probar en postman que las rutas esten funcionando bien login y register
+
+
+
+npm i lodash
+npm i -D @types/lodash
